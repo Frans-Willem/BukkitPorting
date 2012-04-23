@@ -1,0 +1,3 @@
+[submodule "mappings/default"]
+	path = mappings/default
+	url = git://github.com/Frans-Willem/MinecraftMappings.git
