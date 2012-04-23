@@ -1,0 +1,9 @@
+FD: net/minecraft/server/NetServerHandler/lastPosZ net/minecraft/src/NetServerHandler/lastPosZ
+FD: net/minecraft/server/NetServerHandler/q net/minecraft/src/NetServerHandler/lastPosZ
+
+FD: net/minecraft/server/NetServerHandler/lastPosX net/minecraft/src/NetServerHandler/lastPosX
+FD: net/minecraft/server/NetServerHandler/y net/minecraft/src/NetServerHandler/lastPosX
+
+FD: net/minecraft/server/NetServerHandler/lastPosY net/minecraft/src/NetServerHandler/lastPosY
+FD: net/minecraft/server/NetServerHandler/z net/minecraft/src/NetServerHandler/lastPosY
+

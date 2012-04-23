@@ -1,0 +1,3 @@
+FD: net/minecraft/server/NetServerHandler/lastPosZ net/minecraft/src/NetServerHandler/__bukkit__lastPosZ
+FD: net/minecraft/server/NetServerHandler/lastPosX net/minecraft/src/NetServerHandler/__bukkit__lastPosX
+FD: net/minecraft/server/NetServerHandler/lastPosY net/minecraft/src/NetServerHandler/__bukkit__lastPosY
