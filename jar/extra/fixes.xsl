@@ -40,6 +40,11 @@
 		<exceptions/>
 	</method>
 </xsl:template>
+<xsl:template match="class/method[@name='getMetadata' and @desc='(I)I']">
+	<method access="{@access}abstract " name="{@name}" desc="{@desc}">
+		<exceptions/>
+	</method>
+</xsl:template>
 
 <!-- copy everything -->
 <xsl:template match="@*|*|text()|processing-instruction()">
